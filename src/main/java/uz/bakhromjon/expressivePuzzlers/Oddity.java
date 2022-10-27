@@ -1,4 +1,4 @@
-package uz.bakhromjon;
+package uz.bakhromjon.expressivePuzzlers;
 
 /**
  * @author : Bakhromjon Khasanboyev
